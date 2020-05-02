@@ -1,0 +1,6 @@
+In t = 7.8
+P[1]: CPU(running).
+P[2]: Ready queue.
+P[3]: IO(waiting).
+P[4]: IO queue.
+P[5]: Ready queue.

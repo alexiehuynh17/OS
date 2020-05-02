@@ -1,0 +1,14 @@
+In t = 17.8
+P[1]: Ready queue.
+P[2]: Ready queue.
+P[3]: Ready queue.
+P[4]: Ready queue.
+P[5]: Ready queue.
+P[6]: Ready queue.
+P[7]: Ready queue.
+P[8]: Has not arrived yet.
+P[9]: Ready queue.
+P[10]: Ready queue.
+P[11]: Ready queue.
+P[12]: CPU(running).
+P[13]: Ready queue.

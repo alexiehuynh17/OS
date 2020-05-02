@@ -1,0 +1,6 @@
+In t = 31.1
+P[1]: IO queue.
+P[2]: Done.
+P[3]: CPU(running).
+P[4]: IO queue.
+P[5]: IO(waiting).

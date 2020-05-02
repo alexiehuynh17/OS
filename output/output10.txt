@@ -1,0 +1,13 @@
+In t = 30.1
+P[1]: CPU(running).
+P[2]: Ready queue.
+P[3]: Ready queue.
+P[4]: Ready queue.
+P[5]: Ready queue.
+P[6]: Ready queue.
+P[7]: IO queue.
+P[8]: Ready queue.
+P[9]: IO(waiting).
+P[10]: Ready queue.
+P[11]: Ready queue.
+P[12]: Ready queue.

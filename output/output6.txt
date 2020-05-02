@@ -1,0 +1,27 @@
+In t = 12.0
+P[1]: IO(waiting).
+P[2]: Ready queue.
+P[3]: CPU(running).
+P[4]: Ready queue.
+P[5]: Ready queue.
+P[6]: Ready queue.
+P[7]: Has not arrived yet.
+P[8]: Has not arrived yet.
+P[9]: Has not arrived yet.
+P[10]: Has not arrived yet.
+P[11]: Has not arrived yet.
+P[12]: Has not arrived yet.
+P[13]: Ready queue.
+P[14]: Has not arrived yet.
+P[15]: Has not arrived yet.
+P[16]: Has not arrived yet.
+P[17]: Ready queue.
+P[18]: Ready queue.
+P[19]: Has not arrived yet.
+P[20]: Has not arrived yet.
+P[21]: Has not arrived yet.
+P[22]: Has not arrived yet.
+P[23]: Has not arrived yet.
+P[24]: Has not arrived yet.
+P[25]: Done.
+P[26]: Done.
